@@ -1,0 +1,38 @@
+C:\Users\Pc\Desktop\Visual Studio\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\Pc\Desktop\Visual Studio\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\Pc\Desktop\Visual Studio\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\Pc\Desktop\Visual Studio\Proje\Proje\obj\Debug\Proje.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\Visual Studio\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\Pc\Desktop\Visual Studio\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.Cache
+C:\Users\Pc\Desktop\Visual Studio\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\Pc\Desktop\Visual Studio\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\Pc\Desktop\Visual Studio\Proje\Proje\obj\Debug\Proje.MainWindow.resources
+C:\Users\Pc\Desktop\Visual Studio\B161210383-Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\Pc\Desktop\Visual Studio\B161210383-Proje\Proje\obj\Debug\Proje.exe
+C:\Users\Pc\Desktop\Visual Studio\B161210383-Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\Pc\Desktop\Visual Studio\B161210383-Proje\Proje\bin\Debug\Proje.exe
+C:\Users\Pc\Desktop\Visual Studio\B161210383-Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\Pc\Desktop\Visual Studio\B161210383-Proje\Proje\obj\Debug\Proje.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\Visual Studio\B161210383-Proje\Proje\obj\Debug\Proje.MainWindow.resources
+C:\Users\Pc\Desktop\Visual Studio\B161210383-Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\Pc\Desktop\Visual Studio\B161210383-Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\B161210383-Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\lenovo\Desktop\B161210383-Proje\Proje\bin\Debug\Proje.exe
+C:\Users\lenovo\Desktop\B161210383-Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\lenovo\Desktop\B161210383-Proje\Proje\obj\Debug\Proje.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\B161210383-Proje\Proje\obj\Debug\Proje.MainWindow.resources
+C:\Users\lenovo\Desktop\B161210383-Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\lenovo\Desktop\B161210383-Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\B161210383-Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\B161210383-Proje\Proje\obj\Debug\Proje.exe
+C:\Users\lenovo\Desktop\B161210383-Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\lenovo\Desktop\Dersler\B161210383-Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\lenovo\Desktop\Dersler\B161210383-Proje\Proje\bin\Debug\Proje.exe
+C:\Users\lenovo\Desktop\Dersler\B161210383-Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\lenovo\Desktop\Dersler\B161210383-Proje\Proje\obj\Debug\Proje.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Dersler\B161210383-Proje\Proje\obj\Debug\Proje.MainWindow.resources
+C:\Users\lenovo\Desktop\Dersler\B161210383-Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Dersler\B161210383-Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\Dersler\B161210383-Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Dersler\B161210383-Proje\Proje\obj\Debug\Proje.exe
+C:\Users\lenovo\Desktop\Dersler\B161210383-Proje\Proje\obj\Debug\Proje.pdb
